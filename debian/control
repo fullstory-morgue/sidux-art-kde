@@ -7,6 +7,6 @@ Standards-Version: 3.7.2
 
 Package: sidux-art-kde
 Architecture: any
-Depends: ksplash kdm
+Depends: ksplash, kdm
 Description: kde theme for sidux
  Provides ksplash and kdm themes for sidux
