@@ -8,10 +8,8 @@ sidux-art-kde (0.0) unstable; urgency=low
   * cleanup debian dir
   * modify ksplash dir layout
   * modify kdm dir layout
-  * kdm installer (attempt)
+  * kdm installer
   * fix depends
-  * TODO:
-  	- package needs build/install test
-  	- kdm installer
+  * build tested/confirmed
 
- -- Bernard Gray <bernard.gray@gmail.com>  Mon, 16 Apr 2007 21:12:43 +1000
+ -- Bernard Gray <bernard.gray@gmail.com>  Mon, 16 Apr 2007 21:20:19 +1000
