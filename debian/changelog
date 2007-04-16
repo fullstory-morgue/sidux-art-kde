@@ -1,7 +1,6 @@
-sidux-art-kde (0.0) unstable; urgency=low
+sidux-art-kde (0.0.1) unstable; urgency=low
 
-  * NOT RELEASED
-
+  [ Bernard Gray ]
   * Initial Release.
   * add cathbard's sidux-debian kdm and ksplash
   * add source for ksplash (not required for kdm)
@@ -11,6 +10,9 @@ sidux-art-kde (0.0) unstable; urgency=low
   * kdm installer
   * fix depends
   * build tested/confirmed
-  * change permissions on executable jpgs 
+  * change permissions on executable jpgs
 
- -- Bernard Gray <bernard.gray@gmail.com>  Mon, 16 Apr 2007 21:42:53 +1000
+  [ Stefan Lippers-Hollmann ]
+  * final cosmetic changes.
+
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Tue, 17 Apr 2007 01:02:57 +0200

@@ -1,6 +1,6 @@
 Source: sidux-art-kde
 Section: graphics
-Priority: optional
+Priority: extra
 Maintainer: Bernard Gray <bernard.gray@gmail.com>
 Build-Depends: cdbs, debhelper (>= 5)
 Standards-Version: 3.7.2
