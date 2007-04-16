@@ -1,0 +1,8 @@
+[GdmGreeterTheme]
+Author=Cathbard
+Copyright=(c) 2007, GPL
+Description=sidux debian1 KDM Theme
+Encoding=UTF-8
+Greeter=sidux.xml
+Name=Sidux Debian1
+Screenshot=screenshot.jpg

@@ -1,0 +1,12 @@
+Sidux Debian1 Login Screen by Cathbard Druid.
+
+To install this login screen, place this folder somewhere handy (as an example, 
+create /home/username/themes and place it there)
+Now edit /etc/kde3/kdm/kdmrc as root and edit the theme definition
+to read:
+
+UseTheme=True
+Theme=/home/username/themes/sidux-debian1-kdm
+(replace /home/username/themes/sidux-debian1-kdm with the folder you used)
+
+Save it and logout.

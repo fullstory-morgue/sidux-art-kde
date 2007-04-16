@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE greeter SYSTEM "greeter.dtd">
+<greeter>
+  <item type="rect" id="background">
+    <pos x="0" y="0" width="100%" height="100%"/>
+    <fixed>
+      <item type="pixmap">
+        <normal file="background.jpg"/>
+        <pos x="0" y="0" width="100%" height="100%"/>
+      </item>
+      
+      <item type="rect">
+	      <normal color="#ffffff" alpha="0"/>
+	      <pos anchor="c" x="11%" y="2%" width="box" height="box"/>
+	      <box orientation="vertical" spacing="20" xpadding="10">
+		      <!-- Wellcome on ... -->
+		      <item type="label">
+			      <pos x="5%" y="0%"/>
+			      <normal color="#becefd" font="Sans 14"/>
+	<stock type="welcome-label"/>
+      		      </item> 
+	      </box>
+      </item>
+      <item type="rect">
+	      <normal color="#000000" alpha="0"/>
+	      <pos anchor="c" x="85%" y="93%" width="box" height="box"/>
+	      <box orientation="vertical" spacing="20" xpadding="10">
+		      <!-- clock -->
+		      <item type="label" id="clock">
+			      <normal color="#becefd" font="Sans 12"/>
+			      <pos x="5%" y="0%"/>
+			      <text>%c</text>
+		      </item>
+	      </box>
+      </item>
+      <item type="pixmap">
+        <normal file="back.png"/>
+        <pos anchor="c" x="52%" y="15%" width="32%" height="18%"/>
+      </item>
+    </fixed>
+  </item>
+  <item type="rect" id="userlist-background">
+    <pos x="15%" y="6%" width="20%" height="25%"/>
+    <normal color="#ffffff" alpha="0"/>
+    <fixed>
+      <item type="rect" id="userlist">
+        <pos x="0" y="0" width="100%" height="100%"/>
+
+        <show type="userlist"/>
+      </item>
+    </fixed>
+  </item>
+  <item type="rect">
+	  <normal color="#000000" alpha="0.1"/>
+    <pos x="35%" y="23%" width="32%" height="8%"/>
+    <fixed>
+      <item type="rect">
+        <normal color="#ffffff" alpha="20"/>
+        <pos x="4%" y="50%" width="40%" height="10%"/>
+        <box orientation="horizontal" spacing="10" xpadding="10">
+          
+          <item type="rect" id="session_button" button="true">
+            <normal color="#ffffff" alpha="0"/>
+            <pos x="2%" y="0%" anchor="w" width="box" height="box"/>
+            <box orientation="horizontal" spacing="10" xpadding="10">
+              <item type="pixmap">
+                <normal file="Session.png"/>
+                <prelight file="Session_2.png"/>
+                <active file="Session_2.png" tint="#c5c5c5"/>
+                <pos y="50%" anchor="w"/>
+              </item>
+	      <item type="label">
+		      <normal color="#b5c4d4" font="saved by zero 12"/>
+		      <prelight color="#deecf9" font="saved by zero 12"/>
+		      <active color="#bbdeff" font="saved by zero 12"/>
+		      <pos y="50%" anchor="w"/>
+		      <!-- Stock label for: _Session -->
+		      <stock type="session"/>
+              </item>
+            </box>
+          </item>
+          <item type="rect" id="system_button" button="true">
+            <normal color="#ffffff" alpha="0"/>
+            <show modes="console" type="system"/>
+            <pos x="37%" y="0%" anchor="w" width="box" height="box"/>
+            <box orientation="horizontal" spacing="10" xpadding="10">
+              <item type="pixmap">
+                <normal file="System.png"/>
+                <prelight file="System_2.png"/>
+                <active file="System_2.png" tint="#c5c5c5"/>
+                <pos y="50%" anchor="w"/>
+              </item>
+	      <item type="label">
+		      <normal color="#b5c4d4" font="saved by zero 12"/>
+		      <prelight color="#deecf9" font="saved by zero 12"/>
+		      <active color="#bbdeff" font="saved by zero 12"/>
+		      <pos y="50%" anchor="w"/>
+		      <!-- Stock label for: _Actions -->
+		      <stock type="system"/>
+              </item>
+            </box>
+          </item>
+          
+
+        </box>
+      </item>
+    </fixed>
+  </item>
+  <item type="rect" id="caps-lock-warning">
+    <normal color="#FFFFFF" alpha="0"/>
+    <pos anchor="c" x="52%" y="32%" width="box" height="box"/>
+    <box orientation="vertical" min-width="400" xpadding="10" ypadding="5" spacing="0">
+      <item type="label">
+	      <normal color="#ffff00" font="saved by zero 12"/>
+        <pos x="50%" anchor="n"/>
+<!-- Stock label for: You've got capslock on! -->
+        <stock type="caps-lock-warning"/>
+      </item>
+    </box>
+  </item>
+
+  <item type="rect">
+    <normal color="#000000" alpha="0"/>
+    <pos anchor="c" x="54%" y="16%" width="20%" height="box"/>
+    <box orientation="vertical" min-width="340" xpadding="0" ypadding="0" spacing="5">
+      <item type="label" id="username-label">
+        <pos anchor="nw" x="0%"/>
+	<normal color="#bdd6e5" font="saved by zero 10"/>
+<!-- Stock label for: Username: -->
+        <stock type="username-label"/>
+      </item>
+      <item type="entry" id="user-entry">
+        <pos anchor="nw" x="3%" height="24" width="75%"/>
+      </item>
+      <item type="label" id="password-label">
+        <pos anchor="nw" x="0%"/>
+	<normal color="#bdd6e5" font="saved by zero 10"/>
+<!-- Stock label for: Password: -->
+        <stock type="password-label"/>
+      </item>
+      <item type="entry" id="pw-entry">
+        <pos anchor="nw" x="3%" height="24" width="75%"/>
+      </item>
+<!-- TODO: wrap this is another rect -->
+      <item type="pixmap" button="true" id="login_button">
+        <pos anchor="se" x="99%" y="0%" width="32" height="32"/>
+        <normal file="go.png"/>
+	<prelight file="go_2.png"/>
+      </item>
+    </box>
+  </item>
+  <item type="rect" button="true" id="login_button">
+    <normal color="#ffffff" alpha="0"/>
+    <pos x="31" y="50%" width="box" height="box" anchor="e"/>
+    <box orientation="vertical" xpadding="12" ypadding="8" spacing="0">
+      <item type="pixmap">
+        <pos x="50%" anchor="n"/>
+        <normal file="return.png"/>
+      </item>
+    </box>
+  </item>
+  <fixed>
+    <item type="label" id="pam-error">
+	    <normal color="#ffdadf" font="saved by zero 13"/>
+      <pos x="52%" y="22%" anchor="s"/>
+      <text/>
+    </item>
+  </fixed>
+
+</greeter>
