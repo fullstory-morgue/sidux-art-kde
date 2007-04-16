@@ -1,12 +1,12 @@
 Source: sidux-art-kde
-Section: unknown
-Priority: extra
+Section: graphics
+Priority: optional
 Maintainer: Bernard Gray <bernard.gray@gmail.com>
-Build-Depends: cdbs, cdbs, debhelper (>= 5)
+Build-Depends: cdbs, debhelper (>= 5)
 Standards-Version: 3.7.2
 
 Package: sidux-art-kde
 Architecture: any
-Depends: ${shlibs:Depends}, ${misc:Depends}
-Description: <insert up to 60 chars description>
- <insert long description, indented with spaces>
+Depends: ksplash kdm
+Description: kde theme for sidux
+ Provides ksplash and kdm themes for sidux
