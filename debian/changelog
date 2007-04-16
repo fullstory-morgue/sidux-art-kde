@@ -14,5 +14,6 @@ sidux-art-kde (0.0.1) unstable; urgency=low
 
   [ Stefan Lippers-Hollmann ]
   * final cosmetic changes.
+  * don't exec pictures.
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Tue, 17 Apr 2007 01:02:57 +0200
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Tue, 17 Apr 2007 01:06:21 +0200
