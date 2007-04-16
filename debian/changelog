@@ -11,5 +11,6 @@ sidux-art-kde (0.0) unstable; urgency=low
   * kdm installer
   * fix depends
   * build tested/confirmed
+  * change permissions on executable jpgs 
 
- -- Bernard Gray <bernard.gray@gmail.com>  Mon, 16 Apr 2007 21:20:19 +1000
+ -- Bernard Gray <bernard.gray@gmail.com>  Mon, 16 Apr 2007 21:42:53 +1000
