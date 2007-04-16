@@ -7,7 +7,10 @@ sidux-art-kde (0.0) unstable; urgency=low
   * add source for ksplash (not required for kdm)
   * cleanup debian dir
   * modify ksplash dir layout
-  * TODO: package needs build/install test
   * modify kdm dir layout 
+
+  * TODO: 
+  	- package needs build/install test
+  	- kdm installer
 
  -- Bernard Gray <bernard.gray@gmail.com>  Mon, 16 Apr 2007 14:14:31 +1000
