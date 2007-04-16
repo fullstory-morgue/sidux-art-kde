@@ -1,5 +1,9 @@
 sidux-art-kde (0.0) unstable; urgency=low
 
-  * Initial Release.
+  * NOT RELEASED
 
- -- Bernard Gray <bernard.gray@gmail.com>  Sat, 14 Apr 2007 13:39:49 +1000
+  * Initial Release.
+  * add cathbard's sidux-debian kdm and ksplash 
+  * add source for ksplash (not required for kdm)
+
+ -- Bernard Gray <bernard.gray@gmail.com>  Mon, 16 Apr 2007 13:31:22 +1000
