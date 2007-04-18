@@ -1,9 +1,5 @@
-sidux-art-kde (0.0.2) UNRELEASED; urgency=low
+sidux-art-kde (0.0.2) unstable; urgency=low
 
-  [ Stefan Lippers-Hollmann ]
-  * NOT RELEASED YET
-
-  [ Bernard Gray ]
   * remove unrequired license info
   * fix jpg artifacts on kdm background
   * fix Architecture in control file
