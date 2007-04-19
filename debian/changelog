@@ -1,9 +1,5 @@
-sidux-art-kde (0.0.3) UNRELEASED; urgency=low
+sidux-art-kde (0.0.3) unstable; urgency=low
 
-  [ Stefan Lippers-Hollmann ]
-  * NOT RELEASED YET
-
-  [ Bernard Gray ]
   * update kdm theme 
 
  -- Bernard Gray <bernard.gray@gmail.com>  Thu, 19 Apr 2007 14:00:33 +1000
