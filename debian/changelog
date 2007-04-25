@@ -6,9 +6,10 @@ sidux-art-kde (0.0.4) UNRELEASED; urgency=low
   [ Bernard Gray ]
   * adjust userlist bg and username/pw locations
   * update preview image
-  * kdm license clarification 
+  * kdm license clarification
+  * fix ksplash Theme.rc so it runs 
 
- -- Bernard Gray <bernard.gray@gmail.com>  Wed, 25 Apr 2007 21:35:30 +1000
+ -- Bernard Gray <bernard.gray@gmail.com>  Thu, 26 Apr 2007 07:50:59 +1000
 
 sidux-art-kde (0.0.3) unstable; urgency=low
 
