@@ -1,9 +1,5 @@
-sidux-art-kde (0.0.4) UNRELEASED; urgency=low
+sidux-art-kde (0.0.4) unstable; urgency=low
 
-  [ Stefan Lippers-Hollmann ]
-  * NOT RELEASED YET
-
-  [ Bernard Gray ]
   * adjust userlist bg and username/pw locations
   * update preview image
   * kdm license clarification
