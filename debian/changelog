@@ -1,8 +1,13 @@
 sidux-art-kde (0.0.4) UNRELEASED; urgency=low
 
+  [ Stefan Lippers-Hollmann ]
   * NOT RELEASED YET
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Thu, 19 Apr 2007 18:14:10 +0200
+  [ Bernard Gray ]
+  * adjust userlist bg and username/pw locations
+  * update preview image
+
+ -- Bernard Gray <bernard.gray@gmail.com>  Wed, 25 Apr 2007 21:16:24 +1000
 
 sidux-art-kde (0.0.3) unstable; urgency=low
 
