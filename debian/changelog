@@ -1,3 +1,9 @@
+sidux-art-kde (0.0.6) UNRELEASED; urgency=low
+
+  * NOT RELEASED YET
+
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Mon, 07 May 2007 01:56:32 +0200
+
 sidux-art-kde (0.0.5) unstable; urgency=low
 
   * full ksplash update to match kdm 
