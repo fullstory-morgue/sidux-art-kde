@@ -1,8 +1,12 @@
 sidux-art-kde (0.0.5) UNRELEASED; urgency=low
 
+  [ Stefan Lippers-Hollmann ]
   * NOT RELEASED YET
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Thu, 26 Apr 2007 01:51:03 +0200
+  [ Bernard Gray ]
+  * full ksplash update to match kdm 
+
+ -- Bernard Gray <bernard.gray@gmail.com>  Sun, 06 May 2007 20:54:08 +1000
 
 sidux-art-kde (0.0.4) unstable; urgency=low
 
