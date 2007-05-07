@@ -1,9 +1,5 @@
-sidux-art-kde (0.0.6) UNRELEASED; urgency=low
+sidux-art-kde (0.0.6) unstable; urgency=low
 
-  [ Stefan Lippers-Hollmann ]
-  * NOT RELEASED YET
-
-  [ Bernard Gray ]
   * update kdm background
   * update kdm preview screenshot
   * resize kdm preview 
