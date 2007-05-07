@@ -1,8 +1,12 @@
 sidux-art-kde (0.0.6) UNRELEASED; urgency=low
 
+  [ Stefan Lippers-Hollmann ]
   * NOT RELEASED YET
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Mon, 07 May 2007 01:56:32 +0200
+  [ Bernard Gray ]
+  * update kdm background  
+
+ -- Bernard Gray <bernard.gray@gmail.com>  Mon, 07 May 2007 11:12:16 +1000
 
 sidux-art-kde (0.0.5) unstable; urgency=low
 
