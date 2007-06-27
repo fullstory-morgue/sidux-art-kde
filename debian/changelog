@@ -7,9 +7,10 @@ sidux-art-kde (0.0.7) UNRELEASED; urgency=low
   * update ksplash theme for gaia
   * backport kickass kdm theme to ksplash
   * update kdm theme for gaia
-  * update naming on source svgs 
+  * update naming on source svgs
+  * update kdm screenie 
 
- -- Bernard Gray <bernard.gray@gmail.com>  Wed, 27 Jun 2007 18:33:40 +1000
+ -- Bernard Gray <bernard.gray@gmail.com>  Wed, 27 Jun 2007 18:38:46 +1000
 
 sidux-art-kde (0.0.6) unstable; urgency=low
 
