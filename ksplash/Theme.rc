@@ -1,10 +1,39 @@
 [KSplash Theme: sidux]
 Name = sidux
-Description = sidux Tartaros ksplash
-Version = 1.1
-Author = Cathbard Druid
+Description = splash screen for sidux 2007-03 release - based loosely on MoodinKDE by Christian Leh <moodwrod@web.de>
+Version = 1.0
+Author = Bernard Gray <bernard.gray@gmail.com>
+Homepage = http://www.sidux.com
+Engine = Moodin
 
-Engine = Default
+BeginOpacity = 0.1
+BaseResolution = 1280,960
 
-Icons Flashing = true
+UseIconSet = true
+IconSetSize = 48
 
+Image1 = kcmsystem
+Image2 = kcontrol
+Image3 = kcmpci
+Image7 = kmenuedit
+Image8 = kmenu
+
+ImageCoords1 = 648,361
+ImageCoords2 = 719,370
+ImageCoords3 = 790,370
+ImageCoords4 = 861,370
+ImageCoords5 = 932,370
+ImageCoords6 = 1003,370
+ImageCoords7 = 1074,370
+ImageCoords8 = 1145,370
+
+LineUpImages = false
+
+Labels = 1
+Label1 = Welcome
+LabelFont1 = Trebuchet MS,48,-1,0,0,0
+LabelCoords1 = 648,185
+
+StatusCoords = 745,350
+
+ImageOffset1 = 0,10
