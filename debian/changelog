@@ -1,7 +1,6 @@
-sidux-art-kde (0.1.1) UNRELEASED; urgency=low
+sidux-art-kde (0.1.1) unstable; urgency=low
 
   [ Stefan Lippers-Hollmann ]
-  * NOT RELEASED YET
   * add VCS control headers.
 
   [ Bernard Gray ]
