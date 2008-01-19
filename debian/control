@@ -2,7 +2,8 @@ Source: sidux-art-kde
 Section: graphics
 Priority: extra
 Maintainer: Bernard Gray <bernard.gray@gmail.com>
-Build-Depends: cdbs, debhelper (>= 5)
+Uploaders: Stefan Lippers-Hollmann <s.l-h@gmx.de>
+Build-Depends: cdbs, debhelper (>= 6)
 Standards-Version: 3.7.3
 Vcs-Svn: svn://svn.berlios.de/fullstory/sidux-art-kde/trunk
 Vcs-Browser: http://svn.berlios.de/wsvn/fullstory/sidux-art-kde/trunk/
@@ -11,5 +12,5 @@ Package: sidux-art-kde
 Architecture: all
 Depends: sidux-art-kde-gaia | sidux-art-kde-eros
 Conflicts: sidux-art-kde (<= 0.0.6)
-Description: kde theme virtual package for sidux
+Description: KDE theme virtual package for sidux
  Depends on various KDE artwork used in current sidux release
