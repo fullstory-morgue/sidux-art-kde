@@ -1,9 +1,5 @@
-sidux-art-kde (0.1.8) UNRELEASED; urgency=low
+sidux-art-kde (0.1.8) unstable; urgency=low
 
-  [ Stefan Lippers-Hollmann ]
-  * NOT RELEASED YET
-
-  [ Bernard Gray ]
   * default to erebos sidux-art-kde-theme.
 
  -- Bernard Gray <bernard.gray@gmail.com>  Mon, 26 May 2008 17:57:42 +1000
