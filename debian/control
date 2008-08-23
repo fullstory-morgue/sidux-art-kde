@@ -10,7 +10,7 @@ Vcs-Browser: http://svn.berlios.de/wsvn/fullstory/sidux-art-kde/trunk/
 
 Package: sidux-art-kde
 Architecture: all
-Depends: sidux-art-kde-erebos | sidux-art-kde-theme
+Depends: sidux-art-kde-ourea | sidux-art-kde-theme
 Conflicts: sidux-art-kde (<= 0.0.6)
 Description: KDE theme virtual package for sidux
  Depends on various KDE artwork used in current sidux release
