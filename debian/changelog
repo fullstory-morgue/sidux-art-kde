@@ -1,4 +1,4 @@
-sidux-art-kde (1.0.1) UNRELEASED; urgency=low
+sidux-art-kde (1.0.1) unstable; urgency=low
 
   * Stop kmix from popping its wondow up, force it to live in the tray only
     at startup.
