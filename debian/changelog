@@ -1,4 +1,4 @@
-sidux-art-kde (1.0.0) UNRELEASED; urgency=low
+sidux-art-kde (1.0.0) unstable; urgency=low
 
   * Add myself to Uploaders.
   * Add kde/qt default settings ala kubuntu-default-settings or fedora's
