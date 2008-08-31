@@ -1,6 +1,5 @@
-sidux-art-kde (1.0.3) UNRELEASED; urgency=low
+sidux-art-kde (1.0.3) unstable; urgency=low
 
-  * NOT RELEASED YET
   * Provide very conservative but reliable defaults for new users
     wallpaper and ksplash.
 
