@@ -1,8 +1,9 @@
 sidux-art-kde (1.0.2) UNRELEASED; urgency=low
 
-  * NOT RELEASED YET
+  * Provide /etc/gtk-2.0/gtkrc and Recommend the gtk2-engines-qtcurve package.
+  * Move qt3rc to qt3 and simplify the installation of those files to /etc/.
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Sun, 31 Aug 2008 18:11:54 +0200
+ -- Kel Modderman <kel@otaku42.de>  Mon, 01 Sep 2008 02:42:00 +1000
 
 sidux-art-kde (1.0.1) unstable; urgency=low
 

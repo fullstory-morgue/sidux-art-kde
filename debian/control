@@ -17,6 +17,7 @@ Description: KDE theme virtual package for sidux
 
 Package: sidux-settings-kde
 Depends: sidux-art-kde (= ${source:Version}), kde-style-qtcurve
+Recommends: gtk2-engines-qtcurve
 Architecture: all
 Description: provide default KDE settings for sidux
  Provides default settings for appearance and applications of the KDE

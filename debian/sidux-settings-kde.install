@@ -3,4 +3,5 @@ kde3rc/*rc       etc/
 kde4rc/*rc       etc/
 kde3/*           usr/share/sidux-settings-kde/kde3/
 kde4/*           usr/share/sidux-settings-kde/kde4/
-qt3rc/*rc        etc/qt3/
+qt3              etc/
+gtk-2.0          etc/
