@@ -1,10 +1,12 @@
 sidux-art-kde (1.0.0) UNRELEASED; urgency=low
 
-  * DO NOT RELEASE
+  * Add myself to Uploaders.
   * Add kde/qt default settings ala kubuntu-default-settings or fedora's
     kde-settings.
+  * Provide new binary package, sidux-settings-kde which install global
+    default settings for appearance and applications.
 
- -- Kel Modderman <kel@otaku42.de>  Sun, 31 Aug 2008 03:44:12 +1000
+ -- Kel Modderman <kel@otaku42.de>  Sun, 31 Aug 2008 23:57:31 +1000
 
 sidux-art-kde (0.1.10) unstable; urgency=low
 
