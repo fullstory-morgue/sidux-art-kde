@@ -1,3 +1,9 @@
+sidux-art-kde (1.0.5) UNRELEASED; urgency=low
+
+  * NOT RELEASED YET
+
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Mon, 01 Sep 2008 23:11:18 +0200
+
 sidux-art-kde (1.0.4) unstable; urgency=low
 
   * Provide iceweasel preference override to disable the fugly GTK filepicker.
