@@ -1,3 +1,9 @@
+sidux-art-kde (1.0.6) UNRELEASED; urgency=low
+
+  * NOT RELEASED YET
+
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Fri, 05 Sep 2008 01:39:03 +0200
+
 sidux-art-kde (1.0.5) unstable; urgency=low
 
   * Use the same file picker override for icedove.
