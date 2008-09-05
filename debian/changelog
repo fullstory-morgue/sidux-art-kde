@@ -1,4 +1,4 @@
-sidux-art-kde (1.0.6) UNRELEASED; urgency=low
+sidux-art-kde (1.0.6) unstable; urgency=low
 
   * Change default fonts from Bistream to DejaVu.
   * Do not disable k3b splash.
