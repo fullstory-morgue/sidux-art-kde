@@ -1,8 +1,12 @@
 sidux-art-kde (1.0.6) UNRELEASED; urgency=low
 
-  * NOT RELEASED YET
+  * Change default fonts from Bistream 10pt to DejaVu 9pt.
+  * Do not disable k3b splash.
+  * Simplify default konversationrc. Save logs to ~/irclogs and not deep
+    within ~/.kde/.
+  * Add defaults for amarok.
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Fri, 05 Sep 2008 01:39:03 +0200
+ -- Kel Modderman <kel@otaku42.de>  Fri, 05 Sep 2008 22:15:21 +1000
 
 sidux-art-kde (1.0.5) unstable; urgency=low
 

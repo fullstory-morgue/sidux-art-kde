@@ -1,7 +1,6 @@
 [General Options]
 Allow overburning=true
 No cd eject=true
-Show splash=false
 auto rewritable erasing=true
 
 [TipOfDay]
