@@ -1,8 +1,9 @@
 sidux-art-kde (1.0.7) UNRELEASED; urgency=low
 
   * NOT RELEASED YET
+  * Fix location to korganizer rc config file.
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Sat, 06 Sep 2008 00:27:07 +0200
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Sun, 07 Sep 2008 04:22:51 +1000
 
 sidux-art-kde (1.0.6) unstable; urgency=low
 
