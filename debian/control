@@ -16,7 +16,7 @@ Description: KDE theme virtual package for sidux
  Depends on various KDE artwork used in current sidux release
 
 Package: sidux-settings-kde
-Depends: sidux-art-kde (= ${source:Version}), kde-style-qtcurve, ttf-dejavu
+Depends: sidux-art-kde, kde-style-qtcurve, ttf-dejavu
 Recommends: gtk2-engines-qtcurve
 Architecture: all
 Description: provide default KDE settings for sidux
