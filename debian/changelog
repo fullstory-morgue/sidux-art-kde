@@ -4,8 +4,14 @@ sidux-art-kde (1.0.7) UNRELEASED; urgency=low
   * Fix location to korganizer rc config file.
   * Remove versioned dependency on sidux-art-kde, there is no known
     reason why it would be required.
+  * Change to 9pt font size per default. Reduce clock font size to 10pt.
+  * Disable first time personalizer wizard for all users.
+  * Disable KDE login splash screen, this force user to choose their own
+    instead of complain about our choice.
+  * Set wallapaper to default KDE 3.5 wallapaper, user can choose their own
+    as above.
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Sun, 07 Sep 2008 04:24:38 +1000
+ -- Kel Modderman <kel@otaku42.de>  Sun, 07 Sep 2008 05:46:17 +1000
 
 sidux-art-kde (1.0.6) unstable; urgency=low
 
