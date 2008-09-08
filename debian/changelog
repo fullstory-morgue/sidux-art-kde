@@ -2,8 +2,9 @@ sidux-art-kde (1.0.8) UNRELEASED; urgency=low
 
   * NOT RELEASED YET
   * Do not globally disable kpersonalizerrc.
+  * Move sidux-browser and ttf-dejavu to Recommends.
 
- -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Mon, 08 Sep 2008 20:54:44 +1000
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Mon, 08 Sep 2008 20:57:47 +1000
 
 sidux-art-kde (1.0.7) unstable; urgency=low
 
