@@ -1,3 +1,9 @@
+sidux-art-kde (1.0.10) UNRELEASED; urgency=low
+
+  * NOT RELEASED YET
+
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Tue, 09 Sep 2008 23:12:25 +0200
+
 sidux-art-kde (1.0.9) unstable; urgency=low
 
   * Do not explcitly set font family name. Let the system choose the correct
