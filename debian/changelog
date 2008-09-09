@@ -1,4 +1,4 @@
-sidux-art-kde (1.0.9) UNRELEASED; urgency=low
+sidux-art-kde (1.0.9) unstable; urgency=low
 
   * Do not explcitly set font family name. Let the system choose the correct
     one.
