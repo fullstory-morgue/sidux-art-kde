@@ -2,5 +2,5 @@
 Type=Plain
 
 [Plain]
-Font=DejaVu Sans Mono,10,-1,5,75,0,0,0,0,0
+Font=Monospace,11,-1,5,50,0,0,0,0,0
 Show_Date=false
